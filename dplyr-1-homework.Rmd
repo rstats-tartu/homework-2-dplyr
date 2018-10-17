@@ -1,0 +1,17 @@
+---
+title: "Homework 3: dplyr"
+author: "Your Name"
+date: "2018-10-17 (update: `r Sys.Date()`)"
+output: 
+  github_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+```
+
+
